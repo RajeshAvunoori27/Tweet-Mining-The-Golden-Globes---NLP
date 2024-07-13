@@ -1,1 +1,1 @@
-# Tweet-Mining-The-Golden-Globes-NLP
+# Tweet Mining & The Golden Globes-NLP
